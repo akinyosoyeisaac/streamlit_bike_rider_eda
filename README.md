@@ -1,2 +1,2 @@
 # streamlit_bike_rider_eda
-This is a demo using streamlit to create a deployment of an EDA for bike riders.
+This is a demo EDA using streamlit to deploy the analysis on bike riders dataset.

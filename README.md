@@ -5,5 +5,5 @@
 
 2. The following python library (streamlit, pandas, numpy, pyplot and seaborn) has made it possible to develop this app
 
-3. ![The outcome of the app can be preview in jpeg file above](.\img.png) 
+3. ![The outcome of the app can be preview in jpeg file above](img.png) 
 
